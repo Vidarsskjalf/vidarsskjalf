@@ -49,7 +49,8 @@ I'm a **Systems Administrator** with a passion for cloud technologies, cybersecu
 - 🚀 [**wavToTranscription**](https://github.com/Vidarsskjalf/wavToTranscription) - Convert WAV files to text using Python.
 - 🔐 [**randomPasswdGenerator**](https://github.com/Vidarsskjalf/randomPasswdGenerator) - A secure password generator built with Python.
 - 🖥️ [**dwm**](https://github.com/Vidarsskjalf/dwm) - Customized configuration for Dynamic Window Manager (dwm).
-- 📊 [**Ansible Playbooks**](https://github.com/Vidarsskjalf/ansible) - Automating server management and infrastructure tasks using Ansible.
+- ⚙️ [**Ansible Playbooks**](https://github.com/Vidarsskjalf/ansible) - Automating server management and infrastructure tasks using Ansible.
+- 🌐 [**Havig-Systems**](https://github.com/Vidarsskjalf/Havig-Systems) - Website for Havig Systems, providing IT & A/V solutions.
 - 📈 **Monitoring Configs** *(Coming Soon)* - Nagios and Prometheus setups for monitoring infrastructure health.
 
 ---
