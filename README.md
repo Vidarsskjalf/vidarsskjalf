@@ -54,10 +54,4 @@ I'm a **Systems Administrator** with a passion for cloud technologies, cybersecu
 
 ---
 
-## 📬 **Connect With Me**
-- 💼 [LinkedIn](https://www.linkedin.com/in/jerrodhavig/)
-- ✉️ Email Address
-
----
-
 ⚡ *Let's build the future of IT together!*
