@@ -4,7 +4,7 @@
 
 ## <samp><strong>👋 Hey there!</strong></samp>
 
-I'm a **Systems Administrator** with a passion for cloud technologies, cybersecurity, and automation. With hands-on experience managing both on-prem and hybrid cloud environments, I thrive in designing and implementing robust IT solutions.
+I'm a Systems Administrator with a passion for cloud technologies, cybersecurity, and automation. I specialize in managing on-premises and hybrid cloud environments, leveraging my expertise to design and implement secure, scalable, and efficient IT solutions. Always eager to tackle new challenges, I enjoy automating processes and enhancing system performance to drive operational excellence.
 
 ---
 
