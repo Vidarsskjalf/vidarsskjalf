@@ -1,6 +1,3 @@
-
-# Jerrod Havig
-
 **Systems & Network Engineer**
 
 I am a systems and network engineer with interests spanning enterprise infrastructure, computer engineering, embedded systems, and electronics.
@@ -20,14 +17,3 @@ My work focuses on designing, building, and understanding complex systems—from
 - Exploring embedded development, electronics, and computer architecture
 - Building and maintaining Linux-based infrastructure and automation tools
 - Expanding my knowledge of electrical and computer engineering
-
-## Selected Projects
-
-### [Essentia](https://github.com/Vidarsskjalf/Essentia)
-A Fedora/Hyprland environment focused on performance, control, and minimalism.
-
-### [Ansible](https://github.com/Vidarsskjalf/Ansible)
-Infrastructure automation, server provisioning, and configuration management.
-
-Additional projects and research will be published as development progresses.
-
